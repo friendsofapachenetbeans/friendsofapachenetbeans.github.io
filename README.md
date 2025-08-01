@@ -21,9 +21,9 @@ Currently the stichting is headed by:
 * RSIN (fiscal) number: **867140902**
 * KvK (commerce) number: **95463119**
 * Post address: 
-** **Rapenburg 58-2.**
-** **Postcode 1011TZ**, 
-** **Amsterdam**
+ * Street **Rapenburg 58-2.**
+ * Postcode **1011TZ**, 
+ * City **Amsterdam**
 
 The foundation is currently in the setup phase, completing all requirements to be able to transfer support and funds to enable its main goal.
 The final web address will be published here, once the setup phase is completed.
