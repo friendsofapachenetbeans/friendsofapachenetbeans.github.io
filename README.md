@@ -15,12 +15,15 @@ Currently the stichting is headed by:
 * Timon Veenstra, secretary.
 
 
-Important information for our sponsors:
+# Important information for our sponsors:
 
-Bank account: NL 72 INGB 0114 9777 71
-RSIN (fiscal) number: 867140902
-KvK (commerce) number: 95463119
-Post address: Rapenburg 58-2. Postcode 1011TZ, Amsterdam
+* Bank account: **NL 72 INGB 0114 9777 71**
+* RSIN (fiscal) number: **867140902**
+* KvK (commerce) number: **95463119**
+* Post address: 
+** **Rapenburg 58-2.**
+** **Postcode 1011TZ**, 
+** **Amsterdam**
 
 The foundation is currently in the setup phase, completing all requirements to be able to transfer support and funds to enable its main goal.
 The final web address will be published here, once the setup phase is completed.
