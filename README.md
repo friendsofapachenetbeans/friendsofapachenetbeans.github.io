@@ -34,9 +34,8 @@ Our [police plan (Dutch)](https://github.com/friendsofapachenetbeans/friendsofap
 # Friends of NetBeans Activity Calendar
 
 Our **Quarterly Friends of Apache NetBeans Meetup** is planned 
-every 3rd Thursday of the moth starting a new Quarter (Jan, Apr, Jul, Oct).
-The meetup in July is planned as a video conference because that date falls in the vacation months in msot of Europe.
-
+every 3rd Thursday of the month starting a new Quarter (Jan, Apr, Jul, Oct).
+The meetup in July is planned as a video conference because that date falls in the vacation months.
 
 | Date          | Activity                                    |
 |---------------|---------------------------------------------|
@@ -49,8 +48,6 @@ The meetup in July is planned as a video conference because that date falls in t
 | 2026-04-16    | Quarterly Friends of Apache NetBeans Meetup |
 | 2026-07-16    | Quarterly Friends of Apache NetBeans Meetup (video) |
 | 2026-10-16    | Quarterly Friends of Apache NetBeans Meetup |
-
-Other activities,s uch as (board)members visiting related conferences will be added.
 
 **Note**\
 The foundation is currently in the setup phase, completing all requirements to be able to transfer support and funds to enable its main goal.
