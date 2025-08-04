@@ -19,7 +19,7 @@ The members of the board receive **no** payment for their efforts.
 
 # Policy Plan
 
-Our [police plan (Dutch)](./beleidplan.pdf) can be found via this [link](./beleidplan.pdf).
+Our [police plan (Dutch)](https://github.com/friendsofapachenetbeans/friendsofapachenetbeans.github.io/blob/main/beleidsplan.pdf) can be found via this [link](https://github.com/friendsofapachenetbeans/friendsofapachenetbeans.github.io/blob/main/beleidsplan.pdf).
 
 # Important information for our sponsors:
 
