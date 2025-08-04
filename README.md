@@ -40,12 +40,12 @@ The meetup in July is planned as a video conference because that date falls in t
 
 | Date          | Activity                                    |
 |---------------|---------------------------------------------|
-| 2025-09-04    | Amsterdam Java User Group                   |
+| 2025-09-04    | <a href="http://amsterdamjug.com/"> Amsterdam Java User Group</a> |
 | 2025-09-19    | AIDevs Conference                           |
 | 2025-10-16    | **Quarterly Friends of Apache NetBeans Meetup** |
-| 2025-11-06    | JFall                                       |
+| 2025-11-06    | <a href="https://jfall.nl/">JFall 2025</a>             |
 | 2026-01-15    | Quarterly Friends of Apache NetBeans Meetup |
-| 2026-02-02    | (FOSDEM Brussels)[https://fosdem.org/2025/]   |                          |  
+| 2026-02-02    | <a href="https://fosdem.org/2025/">FOSDEM</a>  |
 | 2026-04-16    | Quarterly Friends of Apache NetBeans Meetup |
 | 2026-07-16    | Quarterly Friends of Apache NetBeans Meetup (video) |
 | 2026-10-16    | Quarterly Friends of Apache NetBeans Meetup |
