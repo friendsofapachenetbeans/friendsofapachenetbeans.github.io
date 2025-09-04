@@ -26,6 +26,7 @@ Our [police plan (Dutch)](https://github.com/friendsofapachenetbeans/friendsofap
 * Bank account: **NL 72 INGB 0114 9777 71**
 * RSIN (fiscal) number: **867140902**
 * KvK (commerce) number: **95463119**
+* DUNS (DUN and Bradstreet) number: **965710966**
 * Post address: 
     * Street **Rapenburg 58-2.**
     * Postcode **1011TZ**, 
